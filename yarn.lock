@@ -327,12 +327,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@electron/remote@npm:^2.0.8":
-  version: 2.0.8
-  resolution: "@electron/remote@npm:2.0.8"
+"@electron/remote@npm:^2.1.3":
+  version: 2.1.3
+  resolution: "@electron/remote@npm:2.1.3"
   peerDependencies:
     electron: ">= 13.0.0"
-  checksum: d0ef11b3f09d789baf4330c2c021cfc1a997fc5ffdb56e8810ed7fe2fd76cda1a168c0589d2a10284a907fd3829bae14002a58b35c4881473cdd0049f07fbd63
+  checksum: 8ed8e27c212405391f0e6379777f86ee51fa88c0881f947eb46800bc23927d67699983a7bbbd8203017e99119d2777b6fbaf4db8acd83ec81d7f462a208cc478
   languageName: node
   linkType: hard
 
@@ -1296,7 +1296,7 @@ __metadata:
     "@electron-forge/maker-dmg": ^6.0.3
     "@electron-forge/maker-rpm": ^6.0.3
     "@electron-forge/maker-squirrel": ^6.0.3
-    "@electron/remote": ^2.0.8
+    "@electron/remote": ^2.1.3
     "@types/discord-rpc": ^4.0.3
     "@types/node": ^18.11.9
     copy-to-clipboard: ^3.3.3
@@ -3577,7 +3577,7 @@ __metadata:
 
 "resolve@patch:resolve@^1.1.6#~builtin<compat/resolve>, resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.20.0#~builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
